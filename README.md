@@ -10,4 +10,4 @@ with
 
 https://github.com/soapdog/does-github-has-a-bug-with-file-serving/blob/gh-pages/test.txt
 
-To see the top of the file vanish when serving.
+To see the top of the file vanish when serving through the Github Pages HTTP server.
