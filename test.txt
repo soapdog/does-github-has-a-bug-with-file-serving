@@ -1,0 +1,16 @@
+---
+bug: this header will vanish
+---
+
+#Does this header makes me look fat?
+
+Now this is just a markdown file. The extension doesn't matter, all it matters is that the
+header part:
+
+~~~~~
+---
+bug: this header will vanish
+---
+~~~~~
+
+Vanished from the served file.
