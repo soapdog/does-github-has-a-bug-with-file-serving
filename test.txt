@@ -1,5 +1,7 @@
 ---
 bug: this header will vanish
+hypothesis: these headers are vanishing because of reasons
+imagine: how to do create client side markdown processing with metadata without the metadata?
 ---
 
 #Does this header makes me look fat?
